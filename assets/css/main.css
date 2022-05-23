@@ -29,6 +29,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
 body {
 	line-height: 1;
 }
@@ -74,6 +75,7 @@ input, select, textarea {
 
 /* Basic */
 
+
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -92,6 +94,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		
 	}
 
 	*, *:before, *:after {
